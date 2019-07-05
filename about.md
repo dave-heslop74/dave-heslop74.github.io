@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I'm on the right!
+I'm on the right, Peggy is on the left.
 
 <br/>
 <hr/>
