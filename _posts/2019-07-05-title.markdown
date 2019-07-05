@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bhattacharyya
-date: 2015-07-15 15:09:00
+date: 2019-07-05 15:09:00
 description: Code from Heslop. D. & A. P. Roberts (2019). Quantifying the similarity of paleomagnetic poles (submitted).
 ---
 The simplest way to run the Bhattacharyya notebook is on the Binder cloud, using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/bhattacharyya/master)
