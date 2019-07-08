@@ -11,6 +11,7 @@ There is a short YouTube tutorial here.
 You can find the Bhattacharyya code and example Jupyter notebook <a href="https://github.com/dave-heslop74/bhattacharyya" target="blank">here</a>.
 
 If you would like to run the Bhattacharyya package locally, it can be installed from GitHub using:
+
 ```pip intall git+https://github.com/dave-heslop74/bhattacharyya.git```
 
 
