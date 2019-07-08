@@ -10,9 +10,11 @@ A python package to calculate the Bhattacharyya coefficient and Bayes error of t
 
 <HR SIZE="6">
 
-The simplest way to run the Bhattacharyya package is via an interactive Jupyter notebook on the Binder cloud, click this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/bhattacharyya/master)
+The simplest way to run the Bhattacharyya package is via the Binder cloud.
 
-There is a short YouTube tutorial here.
+You can launch an interactive Jupyter notebook on Binder using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/bhattacharyya/master)
+
+There is a short YouTube tutorial for the interactive notebook here.
 
 <HR SIZE="6">
   
