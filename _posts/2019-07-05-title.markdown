@@ -8,10 +8,12 @@ The simplest way to run the Bhattacharyya notebook is on the Binder cloud, using
 
 There is a short YouTube tutorial here.
 
-You can find the Bhattacharyya code and example Jupyter notebook <a href="https://github.com/dave-heslop74/bhattacharyya" target="blank">here</a>.
+<HR SIZE="6">
+  
+You can find the Bhattacharyya code and example Jupyter notebook on <a href="https://github.com/dave-heslop74/bhattacharyya" target="blank">GitHub</a>.
 
 If you would like to run the Bhattacharyya package locally, it can be installed from GitHub using:
 
 ```pip intall git+https://github.com/dave-heslop74/bhattacharyya.git```
-
+<HR SIZE="6">
 
