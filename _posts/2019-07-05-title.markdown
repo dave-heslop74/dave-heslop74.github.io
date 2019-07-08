@@ -8,7 +8,11 @@ A python package to calculate the Bhattacharyya coefficient and Bayes error of t
 
 **Heslop, D. & A. P. Roberts (2019). Quantifying the similarity of palaeomagnetic poles, *Journal of Geophysical Research* (*submitted*).** 
 
-<HR SIZE="6">
+<hr style="
+		border:none;
+		height:3px;
+	background-color:black;
+	">
 
 The simplest way to run the Bhattacharyya package is via the Binder cloud.
 
@@ -16,12 +20,21 @@ You can launch an interactive Jupyter notebook on Binder using this button: [![B
 
 There is a short YouTube tutorial for the interactive notebook here.
 
-<HR SIZE="6">
+<hr style="
+		border:none;
+		height:3px;
+	background-color:black;
+	">
   
 You can find the Bhattacharyya code and example Jupyter notebook on <a href="https://github.com/dave-heslop74/bhattacharyya" target="blank">GitHub</a>.
 
 If you would like to run the Bhattacharyya package locally, it can be installed from GitHub using:
 
 ```pip intall git+https://github.com/dave-heslop74/bhattacharyya.git```
-<HR SIZE="6">
+
+<hr style="
+		border:none;
+		height:3px;
+	background-color:black;
+	">
 
