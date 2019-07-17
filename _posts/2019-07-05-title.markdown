@@ -18,7 +18,7 @@ The simplest way to run the Bhattacharyya package is via the Binder cloud.
 
 You can launch an interactive Jupyter notebook on Binder using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/bhattacharyya/master)
 
-There is a short YouTube tutorial for the interactive notebook here.
+There is a short YouTube tutorial for the interactive notebook <a href="https://youtu.be/62rjf_t6jEg" target="_blank">here</a>.
 
 <hr style="
 		border:none;
