@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I'm on the right, Peggy is on the left (she coeds too, moslty in PAW-TRAN).
+I'm on the right, Peggy is on the left (she codes too, mostly in PAW-TRAN).
 
 <br/>
 <hr/>
