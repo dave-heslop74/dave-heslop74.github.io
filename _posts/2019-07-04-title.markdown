@@ -6,7 +6,7 @@ description: Code from "Quantifying the similarity of paleomagnetic poles".
 ---
 The simplest way to run the KLD notebook is on the Binder cloud, using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/kld/master)
 
-There is a short YouTube tutorial here.
+There is a short YouTube tutorial <a href="https://youtu.be/ecHZxUA6-Yg" target="blank">here</a>.
 
 You can find the Kullback Leibler code and example Jupyter notebook <a href="https://github.com/dave-heslop74/kld" target="blank">here</a>.
 
