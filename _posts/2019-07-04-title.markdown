@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kullback-leibler divergence
+title: Kullback Leibler Divergence
 date: 2019-09-27 10:00:00
 description: Code from "Quantifying the similarity of paleomagnetic poles".
 ---
@@ -8,6 +8,6 @@ The simplest way to run the KLD notebook is on the Binder cloud, using this butt
 
 There is a short YouTube tutorial here.
 
-You can find the Kullback-leibler code and example Jupyter notebook <a href="https://github.com/dave-heslop74/kld" target="blank">here</a>.
+You can find the Kullback Leibler code and example Jupyter notebook <a href="https://github.com/dave-heslop74/kld" target="blank">here</a>.
 
 
