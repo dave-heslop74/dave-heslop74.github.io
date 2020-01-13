@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site & pole direction uncertainty
+title: Site & pole directional uncertainty
 date: 2020-01-13 10:00:00
 description: Code from "Uncertainty propagation for paleomagnetic directions".
 ---
