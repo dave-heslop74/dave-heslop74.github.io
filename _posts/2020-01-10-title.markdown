@@ -1,0 +1,11 @@
+---
+layout: post
+title: Specimen directional uncertainty
+date: 2020-01-10 09:00:00
+description: Specimen-level code from "Uncertainty propagation for paleomagnetic directions".
+---
+The simplest way to run the calculation notebook is on the Binder cloud, using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/vMF_Specimens/master?urlpath=%2Fapps%2FvMF_Specimens.ipynb)
+
+There is a short YouTube tutorial <a href="https://youtu.be/ecHZxUA6-Yg" target="blank">here</a>.
+
+You can find the Kullback Leibler code and example Jupyter notebook <a href="https://github.com/dave-heslop74/vMF_Specimens" target="blank">here</a>.
