@@ -8,4 +8,4 @@ The simplest way to run the calculation notebook is on the Binder cloud, using t
 
 There is a short YouTube tutorial <a href="https://youtu.be/ecHZxUA6-Yg" target="blank">here</a>.
 
-You can find the Kullback Leibler code and example Jupyter notebook <a href="https://github.com/dave-heslop74/vMF_Sites" target="blank">here</a>.
+You can find the package code and interactive Jupyter notebook <a href="https://github.com/dave-heslop74/vMF_Sites" target="blank">here</a>.
