@@ -6,7 +6,7 @@ description: Specimen-level code from "Uncertainty propagation for paleomagnetic
 ---
 The simplest way to run the calculation notebook is on the Binder cloud, using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/vMF_Specimens/master?urlpath=%2Fapps%2FvMF_Specimens.ipynb)
 
-There is a short YouTube tutorial <a href="https://youtu.be/ecHZxUA6-Yg" target="blank">here</a>.
+There is a short YouTube tutorial <a href="https://youtu.be/6CTL2VkXAic" target="blank">here</a>.
 
 You can find the package code and interactive Jupyter notebook <a href="https://github.com/dave-heslop74/vMF_Specimens" target="blank">here</a>.
 
