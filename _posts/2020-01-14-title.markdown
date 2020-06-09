@@ -10,4 +10,11 @@ There is a short YouTube tutorial <a href="https://youtu.be/ecHZxUA6-Yg" target=
 
 You can find the package code and interactive Jupyter notebook <a href="https://github.com/dave-heslop74/vMF_Sites" target="blank">here</a>.
 
-Feel free to contact me using my ANU email address if you questions, bug reports, etc.</a>.
+Feel free to contact me using my ANU email address if you questions, bug reports, etc.
+
+<hr 
+   style="
+      border:none;
+      height:3px;
+      background-color:black;
+   ">
