@@ -8,7 +8,7 @@ Excel worksheet demonstrating the calculations performed in:
 
 Heslop, D., and Roberts, A. P. (2016), Analyzing paleomagnetic data: To anchor or not to anchor?, J. Geophys. Res. Solid Earth, 121, 7742– 7753, doi:10.1002/2016JB013387.
 
-A zip file containing the Excel Workbook and a PDF guide can be downloaded HERE 
+A zip file containing the Excel Workbook and a PDF userguide can be downloaded <a href="https://www.dropbox.com/s/6bp6qvmlwu2cn0f/PPCA.zip?dl=1">HERE</a> 
 
 Feel free to contact me using my ANU email address if you questions, bug reports, etc.
 
